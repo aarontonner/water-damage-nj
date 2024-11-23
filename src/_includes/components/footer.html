@@ -32,7 +32,10 @@
             <a href="/">Home</a>
           </li>
           <li>
-            <a href="/location">Locations</a>
+            <a href="/location">view all</a>
+          </li>
+          <li>
+            <a href="/blog">Blog</a>
           </li>
         </ul>
         <ul>
@@ -47,19 +50,23 @@
           <li>
             <h2>Contact</h2>
           </li>
+          {#
           <li>
             <a href="/contact">
               {{client.address.city}} {{client.address.state}}
             </a>
           </li>
+          #}
           <li>
             <a href="tel:{{client.phoneForTel}}">
               T: {{client.phoneFormatted}}
             </a>
           </li>
+          {#
           <li>
             <a href="mailto:{{client.email}}">Click to Email</a>
           </li>
+          #}
         </ul>
       </div>
     </div>
