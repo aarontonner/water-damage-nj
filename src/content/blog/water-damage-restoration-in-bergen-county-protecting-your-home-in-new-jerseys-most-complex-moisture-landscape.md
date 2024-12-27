@@ -125,6 +125,7 @@ Water damage restoration in Bergen County is more than a service—it's a commit
 If you require immediate [water damage restoration in Bergen County](<>), call us now! [(551) 324-1248](<>)
 
 ### Our Water Removal Service Coverage Area
+
 We proudly serve all of [Bergen County](/bergen-county), including:
 
 * [Hackensack](https://maps.app.goo.gl/i47VEz8NVQH7479v7)
@@ -136,5 +137,9 @@ We proudly serve all of [Bergen County](/bergen-county), including:
 * [Ridgewood](https://maps.app.goo.gl/xqDFsjuUHuoxhV4A6)
 * [Glen Rock](https://maps.app.goo.gl/FUgiY49bAtou3Uy3A)
 * [Fair Lawn](https://maps.app.goo.gl/3we1PdCFnB8z8Y5RA)
+* [Fort Lee](/fort-lee-nj)
+* E[gg Harbor Township](/egg-harbor-township-nj)
+* [Chatham](/chatham-nj)
+* [Caldwell](/caldwell-nj)
 * And all surrounding communities
 * And all surrounding communities (including [Brick](/), and [Cherry Hill](/cherry-hill))
